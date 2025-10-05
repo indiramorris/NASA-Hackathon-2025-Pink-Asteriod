@@ -1,0 +1,11 @@
+Google Colab:
+Meteor Madness NASA Hackathon 2025: https://colab.research.google.com/drive/10KaJVDJh0i_yx_7svcuR7CIAfEiZiyur?usp=sharing
+
+pink asteriod animation and game:  https://colab.research.google.com/drive/1AAiLLIN8porTtEWsJsmK_63g3KBogRgB?usp=sharing
+CodePen.io:
+
+Pink Asteriod Amination (google colab import): https://codepen.io/indiramorris/pen/yyegvqV
+
+Pink Asteriod Amination 2:https://codepen.io/indiramorris/pen/emJgVvB
+
+Pink asteriod Minigame: https://codepen.io/indiramorris/pen/pvgRaON
